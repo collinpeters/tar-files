@@ -1,0 +1,15 @@
+{
+  "name": "tar-files",
+  "version": "1.0.0",
+  "description": "[![DepShield Badge](https://ci.dev.depshield.sonatype.org/badges/collinpeters/depshield-testing-ci-cpeters1/depshield.svg)](https://sonatype.github.io/depshield-github-pages)",
+  "main": "index.js",
+  "dependencies": {
+    "hawk": "^2.3.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
